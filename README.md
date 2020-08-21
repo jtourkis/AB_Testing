@@ -2,13 +2,13 @@
   [![MIT License][license-shield]][license-url]
   [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+<a href="https://www.freepik.com/vectors/business">Business vector created by macrovector - www.freepik.com</a>
 <br />
 
 <p align="center">
 
   <a href="https://github.com/jtourkis/AB_Testing">
-    <img src="MBTA-Bus-2.jpg" alt="MBTA" width="300" height="300" style="border:5px solid black">
+    <img src="ABTest-2.jpg" alt="AB" width="300" height="300" style="border:5px solid black">
   </a>
   
   <h3 align="center">AB Testing & Randomized Evaluation</h3>
@@ -147,6 +147,7 @@ Project Link: [https://github.com/jtourkis/AB_Testing](https://github.com/jtourk
 * [Sales-Conversion-Optimization-Dataset](https://www.kaggle.com/loveall/clicks-conversion-tracking)
 * [Art-of-AB-Testing](https://towardsdatascience.com/the-art-of-a-b-testing-5a10c9bb70a4) 
 * [Master-Your-Hypothesis-Test](https://towardsdatascience.com/master-your-hypothesis-test-a-tutorial-on-power-bootstrapping-sample-selection-and-outcome-273d6739d3e5) 
+* [AB-Image-Creator](https://www.freepik.com/vectors/business)
 
 
 
