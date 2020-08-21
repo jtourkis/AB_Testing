@@ -14,7 +14,7 @@
   <h3 align="center">AB Testing & Randomized Evaluation</h3>
 
   <p align="center">
-    The goal of this repository is to explore possible mechanistic models of MBTA bus pickups using various probability distributions.
+    The goal of this repository is to explore different methods of AB Testing Marketing or Product Changes to determine their effectiveness.
     <br />
     <a href="https://github.com/jtourkis/AB_Testing"><strong>Explore the docs »</strong></a>
     <br />
@@ -100,10 +100,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Roadmap
-
-1. AB Test Product Changes 
-2. Find maximum likelihood and method of moments estimates to simulate data for proposed distributions. 
-
+AB Test Methods Used:
+1. Two Sample T Test Bernoulli Distribution
+2. Boot Strapping: T Testing a Sampling Distribution
 
 
 See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
