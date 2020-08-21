@@ -86,7 +86,7 @@ git clone https://github.com/jtourkis/AB_Testing.git
 ```
 2. Install packages
 ```sh
-install.packages()
+pip install package
 ```
 
 
