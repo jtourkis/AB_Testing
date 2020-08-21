@@ -9,6 +9,7 @@
   <a href="https://github.com/jtourkis/AB_Testing">
     <img src="ABTest-2.jpg" alt="AB" width="300" height="300" style="border:5px solid black">
   </a>
+  
  <a href="https://www.freepik.com/vectors/business">Business vector created by macrovector - www.freepik.com</a>
  
   <h3 align="center">AB Testing & Randomized Evaluation</h3>
