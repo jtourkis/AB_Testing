@@ -7,23 +7,23 @@
 
 <p align="center">
 
-  <a href="https://github.com/jtourkis/MBTA-Ridership-Model">
+  <a href="https://github.com/jtourkis/AB_Testing">
     <img src="MBTA-Bus-2.jpg" alt="MBTA" width="300" height="300" style="border:5px solid black">
   </a>
   
-  <h3 align="center">MBTA Bus Ridership Model</h3>
+  <h3 align="center">AB Testing & Randomized Evaluation</h3>
 
   <p align="center">
     The goal of this repository is to explore possible mechanistic models of MBTA bus pickups using various probability distributions.
     <br />
-    <a href="https://github.com/jtourkis/MBTA-Ridership-Model"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jtourkis/AB_Testing"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jtourkis/MBTA-Ridership-Model">View Demo</a>
+    <a href="https://github.com/jtourkis/AB_Testing">View Demo</a>
     ·
-    <a href="https://github.com/jtourkis/MBTA-Ridership-Model/issues">Report Bug</a>
+    <a href="https://github.com/jtourkis/AB_Testing/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jtourkis/MBTA-Ridership-Model/issues">Request Feature</a>
+    <a href="https://github.com/jtourkis/AB_Testing/issues">Request Feature</a>
   </p>
 </p>
 
@@ -49,11 +49,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The project uses data from the Massachusetts Bay Transit Authority (MBTA) describing average rider boarding by bus stop, time, and route. The data covers fall seasons from 2016 to 2019. I plan to approximate the distribution of different subsets of MBTA data using a number of statistical techniques, such as maximum likelihood estimation and method of moments.  
+The project uses data from Kaggle to simulate performing an AB Test or Randomized Evaluation. 
 
 ### Built With
 
-* [R](https://www.r-project.org) / [R Studio](https://rstudio.com)
 * [Python](https://www.python.org) / [Jupyter Notebook](https://jupyter.org)
 
 
@@ -64,19 +63,19 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-List of required packages. 
-* dplyr
-```sh
-install.packages("dplyr")
-```
-* tidyverse
-```sh
-install.packages("tidyverse")
-```
-* ggplot2
-```sh
-install.packages("ggplot2")
-```
+List of required packages.
+
+* pandas
+
+* numpy
+
+* seaborn
+
+* matplotlib.pyplot
+
+* scipy
+
+
 ### Installation
  
 1. Clone the repo
@@ -88,7 +87,6 @@ git clone https://github.com/jtourkis/MBTA-Ridership-Model.git
 ```sh
 install.packages()
 ```
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -103,10 +101,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-1. Explore data and identify potential probability distribtions. 
+1. AB Test Product Changes 
 2. Find maximum likelihood and method of moments estimates to simulate data for proposed distributions. 
-3. Test Goodness of Fit. Run Kolmogorov-Smirnov (Continuous) or Chi-Squared (Discrete) Tests to assess whether proposed distributions should be rejected. 
-4. Run additional testing to find best fit. 
+
+
 
 See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
 
@@ -139,7 +137,7 @@ Note: The intial README Template was distributed under the MIT License. Copyrigh
 
 James Tourkistas - jmtourkistas@suffolk.edu
 
-Project Link: [https://github.com/jtourkis/MBTA-Ridership-Model](https://github.com/jtourkis/MBTA-Ridership-Model)
+Project Link: [https://github.com/jtourkis/AB_Testing](https://github.com/jtourkis/AB_Testing)
 
 
 
@@ -147,8 +145,9 @@ Project Link: [https://github.com/jtourkis/MBTA-Ridership-Model](https://github.
 ## Acknowledgements
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md) 
-* [MBTA Bus Ridership by Time Period, Season, Route/Line, and Stop Dataset](https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-ridership-by-time-period-season-route-line-and-stop)
-
+* [Sales-Conversion-Optimization-Dataset](https://www.kaggle.com/loveall/clicks-conversion-tracking)
+* [Art-of-AB-Testing](https://towardsdatascience.com/the-art-of-a-b-testing-5a10c9bb70a4) 
+* [Master-Your-Hypothesis-Test](https://towardsdatascience.com/master-your-hypothesis-test-a-tutorial-on-power-bootstrapping-sample-selection-and-outcome-273d6739d3e5) 
 
 
 
