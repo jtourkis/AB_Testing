@@ -7,7 +7,7 @@
 <p align="center">
 
   <a href="https://github.com/jtourkis/AB_Testing">
-    <img src="ABTest-2.jpg" alt="AB" width="600" height="300" style="border:5px solid black">
+    <img src="ABTest-2.jpg" alt="AB" width="900" height="300" style="border:5px solid black">
   </a>
   
  <a href="https://www.freepik.com/vectors/business">Business vector created by macrovector - www.freepik.com</a>
