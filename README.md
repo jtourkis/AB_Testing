@@ -82,7 +82,7 @@ List of required packages.
 1. Clone the repo
 
 ```sh
-git clone https://github.com/jtourkis/MBTA-Ridership-Model.git
+git clone https://github.com/jtourkis/AB_Testing.git
 ```
 2. Install packages
 ```sh
